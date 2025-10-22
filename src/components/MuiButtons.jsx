@@ -74,7 +74,7 @@ function MuiButtons() {
 
       <IconButton
         aria-label="send"
-        color="success"
+        color="secondary"
         backgroundColor="yellow"
         size="small"
         onClick={() => alert("Button Clicked")}
