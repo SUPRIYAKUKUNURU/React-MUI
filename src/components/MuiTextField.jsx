@@ -16,7 +16,7 @@ function MuiTextField() {
         <TextField lable='Small secondary' size='small' color='secondary' value='Name' />
     </Stack>
 
-    <Stack direction='row' spacing={2}>
+    <Stack direction='row' spacing={3}>
         <TextField  label='Form Input'  required  value={value} onChange={(e) =>setValue(e.target.value)}
             error ={!value}
             helperText={!value ? 'Required':' Do not share with anyone'}/>
