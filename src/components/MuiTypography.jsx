@@ -17,7 +17,7 @@ function MuiTypography() {
   
   <Typography variant='body1'>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Laudantium eum consectetur, reprehenderit officiis nesciunt quae aliquid dolorem, nemo labore amet quo velit hic similique possimus consequuntur et! Quia, a illo? </Typography>
   
-  <Typography variant='body22'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam possimus dicta eaque consectetur assumenda earum qui atque. Blanditiis, eligendi! Quidem recusandae libero beatae repudiandae soluta suscipit eligendi ipsam provident ea. </Typography>
+  <Typography variant='body2'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam possimus dicta eaque consectetur assumenda earum qui atque. Blanditiis, eligendi! Quidem recusandae libero beatae repudiandae soluta suscipit eligendi ipsam provident ea. </Typography>
 
   
    </>
